@@ -1,2 +1,1 @@
-# python-projetos-e-estudos
-Projetos desenvolvidos em python
+# Projetos desenvolvidos em python 🐍
