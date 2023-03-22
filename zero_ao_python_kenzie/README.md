@@ -1,6 +1,6 @@
 Snake game - Jogo da 'cobrinha' 
 
-+ jogo desenvolvido com o pygame, com efeito sonoro toda vez que a cobra come uma nova comida, e fazendo uma pontuação. (faltou fazer um game over)
++ jogo desenvolvido com o pygame, com efeito sonoro toda vez que a cobra come uma nova comida, e fazendo uma pontuação.
 
   ![snake_test](https://github.com/karendiz/python-projetos-e-estudos/blob/main/zero_ao_python_kenzie/snake_test.jpg)
 
